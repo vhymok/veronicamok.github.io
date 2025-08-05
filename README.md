@@ -5,11 +5,11 @@
 - Description
 - Links
 
-- ### Project 2
+### Project 2
 - Description
 - Links
 
-- #Education
+#Education
 - Georgia Institute of Technology
 
 # Work History
