@@ -9,7 +9,7 @@
 - Description
 - Links
 
-#Education
+# Education
 - Georgia Institute of Technology
 
 # Work History
