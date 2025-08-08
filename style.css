@@ -3,6 +3,7 @@ body {
     font-family: verdana;
 }
 
+
 h1 {
     color: #837C72;
     text-align: left;
@@ -15,12 +16,12 @@ h2 {
     color: #3b3b3b;
     text-align: left;
     font-family: 'verdana', serif;
-    font-size: 20px;
+    font-size: 18px;
     font-style: bold;
 }
 
 p {
-  	color: #3b3b3b;
+    color: #3b3b3b;
     font-family: verdana;
     font-size: 16px;
 }
@@ -53,4 +54,36 @@ p {
 .topnav a.active {
     background-color: #B68C87;
     color: white;
+}
+
+.body{
+  padding: 30px 100px;
+}
+
+.left-section {
+  float: left;
+  width: 35%;
+  padding-top: 8%;
+}
+
+.right-section {
+  float: right;
+  width: 60%; 
+}
+
+.bottom-section {
+  float: center;
+  padding-top: 65%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #CBC9C5;
+    color: #9A8675;
+    text-align: center;
+    font-size: 12px;
+    padding: 14px 16px;
 }
